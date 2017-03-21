@@ -129,7 +129,7 @@ class Success extends React.Component {
         <h3>Your Status: {status}</h3>
         <Modal visible={this.state.authModal}>
           <div className="auth-modal-holder">
-            <div className="email-icon" />
+            <div className="email-icon-modal" />
               <input
                 type="text"
                 id="email"
@@ -138,7 +138,7 @@ class Success extends React.Component {
                 value={this.state.email}
                 onChange={this.onChange}
               />
-            <div className="password-icon" />
+            <div className="password-icon-modal" />
             <input
               type="password"
               id="password"
@@ -147,7 +147,9 @@ class Success extends React.Component {
               value={this.state.password}
               onChange={this.onChange}
             />
-            <button onClick={() => this.reAuthenticate(email, password)}>Login </button>
+            <div className="auth-modal-button-container">
+              <button className="auth-modal-button-go" onClick={() => this.reAuthenticate(email, password)}>Login </button>
+            </div>
           </div>
         </Modal>
       </div>

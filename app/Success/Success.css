@@ -2,4 +2,47 @@
   display: flex;
   flex-direction: column;
   width: 100%;
+  margin-top: 2em;
+}
+
+.email-icon-modal:before {
+  font-family: fontAwesome;
+  content: '\f0e0';
+  position: relative;
+  color: #E0E1E1;;
+  left: -300;
+  top: 25;
+}
+
+.auth-modal-button-container {
+  display: flex;
+  flex: 1 1 50px;
+  flex-direction: column;
+  margin-top: 2em;
+}
+
+.password-icon-modal:before {
+  font-family: fontAwesome;
+  content: '\f084';
+  position: relative;
+  color: #E0E1E1;;
+  left: -300;
+  top: 25;
+}
+
+.auth-modal-button-go {
+  font-family: 'Rubik', sans-serif;
+  width: 50%;
+  height: 100%;
+  border-radius: 50px;
+  outline: 0;
+  border: none;
+  color: #FFF;
+  background-color: #4E5E9A;
+  transition: background-color 2s ease;
+  align-self: center;
+}
+
+.auth-modal-button-go:hover {
+  background-color: #06D6A0;
 }
