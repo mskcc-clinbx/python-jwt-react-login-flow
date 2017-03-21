@@ -2,16 +2,16 @@
 
 First, fork or clone this repository
 
-## Authentication Server
+### Authentication Server
 1. ```cd authentication_server``` then, ```pip install -r requirements.txt```
 2. ```python server.py```
 
-## API
+### API
 1. ```cd api```, then, ```pip install -r requirements.txt```
 2. ```python run.py```
 3. If all is successful the server should be running at localhost:5001
 
-## Frontend
+### Frontend
 1. ```cd app```, then, ```npm install```
 2. To run, ```npm run dev```
 3. Server should be running at localhost:3000
