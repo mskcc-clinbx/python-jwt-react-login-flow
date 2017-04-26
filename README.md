@@ -1,3 +1,7 @@
+# ![JWT Python React Login Flow](logo.png)
+
+> ### Python + React codebase containing end-to-end token based authentication using JSON Web Tokens. 
+
 ### Getting set up
 
 First, fork or clone this repository
