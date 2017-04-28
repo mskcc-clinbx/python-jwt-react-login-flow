@@ -1,4 +1,4 @@
-# ![JWT Python React Login Flow](logo.png)
+<p align="center"><img src="./logo.png"/></p>
 
 > ### Python + React codebase containing end-to-end token based authentication using JSON Web Tokens. 
 
