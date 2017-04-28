@@ -1,4 +1,4 @@
-<p align="center"><img src="./logo.png"/></p>
+<p align="center"><img src="./logo.png" height="125" /></p>
 
 > ### Python + React codebase containing end-to-end token based authentication using JSON Web Tokens. 
 
