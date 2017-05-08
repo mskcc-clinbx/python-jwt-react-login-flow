@@ -20,6 +20,8 @@ First, fork or clone this repository
 2. To run, ```npm run dev```
 3. Server should be running at localhost:3000
 
+## Theory
+<img src="./JWT.png"/>
 
 ### Usage
 
