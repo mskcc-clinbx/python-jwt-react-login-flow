@@ -3,7 +3,7 @@
 > ### Python + React codebase containing end-to-end token based authentication using JSON Web Tokens. 
 
 ## Motivation
-You are smart. You want a secure app. You also want to be able to setup a distributed system where the authentication is isolated to its own environment. Low and behold, tokens. It's never been a better time to use a token-based authentication scheme, whether that be cloud-based or not. 
+You are smart. You want a secure app. You also want to be able to setup a system where the authentication is isolated to its own environment. Low and behold, tokens. It's never been a better time to use a token-based authentication scheme, whether that be cloud-based or not. 
 
 ## Getting Started
 As shown in the diagram below there are three main players in this example, the API, the Authentication Sever, and the Client. So, to begin ```fork``` or ```clone``` this repository. It would be ideal to setup the authentication server and the API in virtual environments. 
