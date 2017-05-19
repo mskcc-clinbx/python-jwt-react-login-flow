@@ -19,7 +19,7 @@ As shown in the diagram below there are three main players in this example, the 
 ### Frontend
 1. ```cd app```, then, ```npm install```
 2. To run, ```npm run dev```
-3. Server should be running at localhost:3000
+3. Server should be running at ```localhost:3000```
 
 ## Theory
 <img src="./JWT.png"/>
