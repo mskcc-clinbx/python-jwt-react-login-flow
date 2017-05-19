@@ -1,7 +1,7 @@
 <p align="center"><img src="./logo.png" height="125" /></p>
 
 > ### Python + React codebase containing end-to-end token based authentication using JSON Web Tokens. 
-
+![Build Status](https://travis-ci.org/mskcc-clinbx/python-jwt-react-login-flow.svg?branch=master)
 ## Motivation
 You are smart. You want a secure app. You also want to be able to setup a system where the authentication is isolated to its own environment. Low and behold, tokens. It's never been a better time to use a token-based authentication scheme, whether that be cloud-based or not. 
 
